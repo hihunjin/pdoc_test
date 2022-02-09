@@ -16,3 +16,7 @@ pdoc math-func.py
 # --math : for latex
 # -o [LOCATION] : for exporting HTML. ex) ``-o docs``
 ```
+
+# browser
+
+[link](https://htmlpreview.github.io/?https://github.com/hihunjin/pdoc_test/blob/main/docs/math-func.html)
